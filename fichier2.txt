@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est E8C3-7ABF
+
+ R‚pertoire de C:\Users\TABLIOUA\app1
+
+05/03/2024  17:36    <DIR>          .
+05/03/2024  17:17    <DIR>          ..
+05/03/2024  17:21               371 fichier1.txt
+05/03/2024  17:36                 0 fichier2.txt
+               2 fichier(s)              371 octets
+               2 R‚p(s)  20ÿ939ÿ051ÿ008 octets libres
